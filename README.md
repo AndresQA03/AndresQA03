@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a software developer. I have experience working with technologies like .Net/.Net Core, C# and Vue.js. Also, I have worked on projects with architectures like MVC, Client-Server and DTO pattern. API REST knowledge and SQL for relational databases.
 
+Also, I am positive, motivated, disciplined and a team player.
+
 ## Some of the technologies I use/have understanding on, are
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -24,6 +26,10 @@ http://artdevelopment-001-site1.gtempurl.com/en
 
 ## My LinkedIn <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" align="right">
 www.linkedin.com/in/andres-quesada-arias
+
+## My Instagram <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px" align="right">
+https://www.instagram.com/artdevelopmentcr/?igshid=YmMyMTA2M2Y%3D
+
 
 
 
